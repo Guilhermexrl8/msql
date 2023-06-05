@@ -22,8 +22,7 @@ CREATE TABLE registro_fucionario{
 	tel int(11),
 	bairro varchar(10),
 	cidade varchar(10),
-	data_nascimento varchar(100),
-	descricao varchar(200)
+	data_nascimento varchar(100)
 };
 
 ===================================================
