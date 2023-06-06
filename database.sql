@@ -1,6 +1,6 @@
-CREATE DATABASE pizzaria; = teg para uma criar tabela
+CREATE DATABASE pizzaria; = teg para criar uma tabela
 =====================================================
-USE pizzaria; = teg para usa a tabela 
+USE pizzaria; = teg para usa uma tabela 
 ====================================================
 -- CRATE = CRIAR
 -- DELETE = DROP
@@ -26,7 +26,7 @@ CREATE TABLE registro_fucionario{
 };
 
 ===================================================
--- Remove -- 
+-- Remove  remove uma tabela-- 
 DROP TABLE pizzariatabela;
 ==================================================
 -- tipos de dados ----
